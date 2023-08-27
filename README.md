@@ -10,3 +10,6 @@ http://eamonmcginn.com.s3-website-ap-southeast-2.amazonaws.com/
 
 Note- regression forces all slopes to be equal at u = 0
 
+Final output of the project is in the report.
+
+I will Commit Now, may be delete later!!
